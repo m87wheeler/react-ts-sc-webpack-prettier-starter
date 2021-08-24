@@ -21,6 +21,3 @@ On  all files:
 ```
 npx prettier --write .
 ```
-# react-ts-sc-webpack-prettier-starter
-# react-ts-sc-webpack-prettier-starter
-# react-ts-sc-webpack-prettier-starter
